@@ -1,2 +1,1 @@
-# mahmud-gdi
-a little gdi 
+USE THIS IN VM
