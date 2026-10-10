@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mahmud/mahmud.vcxproj" Id="f64495c4-7b2c-4727-8123-1fb9f0bdee03" />
+</Solution>
